@@ -1,0 +1,21 @@
+title: "Unlikely Intersections Ecology via Atypical-Family Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-05
+repository-code: "https://github.com/HautevilleHouse/unlikely-intersections-ecology-canonical-lane"
+url: "https://github.com/HautevilleHouse/unlikely-intersections-ecology-canonical-lane"
+license: None
+keywords:
+  - unlikely-intersections
+  - arithmetic-geometry
+  - shimura-varieties
+  - local-to-global
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "Unlikely Intersections Ecology via Atypical-Family Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-05
