@@ -14,7 +14,7 @@
     },
     {
       "path": "paper/UNLIKELY_INTERSECTIONS_ECOLOGY_PREPRINT.md",
-      "sha256": "8fa5a80454f74ea38d2523c3d4470f86be0bff2c654e06a31aaab9f1a0c0126e"
+      "sha256": "717528a6291015b06ed69151eaeaeb1351478d834f89579458723b2f099f048d"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -26,23 +26,23 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "45be8d96f66d19a65b32db8495226e32bcc24606f13580c14dc6d1e8c416cff2"
+      "sha256": "3d06df1cbbe39eec32cb6c046a34ef0c9a8161f61937ee089d6138ffb2e75fa5"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "4290ec1fc2fa460e1d789c09ad61aecd10216bf157e6edf79084cbbd8eaa3b41"
+      "sha256": "484fdef241219b53a6315442ff60755b3f75039b82ac80a7dff62c49c3e98ff0"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "d99dc2d385e2d860c2fc937e9152dc21f86cbd494995c49d2dd72c63e46e7c69"
+      "sha256": "be8fa7235c2e1993b41d0135d5c23af43aac24cca865e2e8a09dc4532a31c6dc"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "17febf8bbc301ee46c8fdaed8ac9d43ce5cc87c493ea0f5369ae19afdc6637a7"
+      "sha256": "5c68e27f7f7a509c56ddc1855691774fa8537aae41332dbb5fa114ab69f57428"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "2676445094989de93e81acbd42392c54f4b58cda2949ad1fc95235a98fc806c4"
+      "sha256": "7149ec2752968309691054faa19f76413285a01b6678ff0682e9a5a156901c03"
     },
     {
       "path": "scripts/uie_closure_guard.py",
@@ -74,7 +74,7 @@
     },
     {
       "path": "repro/THIRD_PARTY_RERUN_PROTOCOL.md",
-      "sha256": "4c917463da98b452c3fc6525d7ee4f4ef95883ac21eb15b3107d2e20283a4376"
+      "sha256": "5deb6cad666a2284e5fc0aeb7ff110e380bad8230a2b829254c5319cce51f88c"
     },
     {
       "path": "artifacts/constants_extraction_inputs.json",
@@ -101,6 +101,6 @@
       "sha256": "56bcaa42859e0fb0d1017ddcd0937b096513e95aa1c154b089e8c647c480862d"
     }
   ],
-  "generated_utc": "2026-05-10T05:23:14Z",
+  "generated_utc": "2026-07-02T16:12:49Z",
   "schema_version": "2026-03-05"
 }
