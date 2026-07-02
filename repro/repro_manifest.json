@@ -26,23 +26,23 @@
     },
     {
       "path": "notes/EG1_public.md",
-      "sha256": "3d06df1cbbe39eec32cb6c046a34ef0c9a8161f61937ee089d6138ffb2e75fa5"
+      "sha256": "8c92162e4bb848e5f74f49f77abd243d4128e1987ba2cd0fce9f581f283276bc"
     },
     {
       "path": "notes/EG2_public.md",
-      "sha256": "484fdef241219b53a6315442ff60755b3f75039b82ac80a7dff62c49c3e98ff0"
+      "sha256": "1eea3c4951174b6d25ab80234951652f53b1017b7bfd61b04f5f41ccbc244c0a"
     },
     {
       "path": "notes/EG3_public.md",
-      "sha256": "be8fa7235c2e1993b41d0135d5c23af43aac24cca865e2e8a09dc4532a31c6dc"
+      "sha256": "2351a275207e59dd69393dc124c9b5a686a31f8fd0e0363782a66777c8b55cda"
     },
     {
       "path": "notes/EG4_public.md",
-      "sha256": "5c68e27f7f7a509c56ddc1855691774fa8537aae41332dbb5fa114ab69f57428"
+      "sha256": "bd8f8093882dde67c02eaea52139da6d5a7ecc461e5a9e9dfcf4aef9c017b017"
     },
     {
       "path": "notes/IDENTIFICATION_BRIDGE.md",
-      "sha256": "7149ec2752968309691054faa19f76413285a01b6678ff0682e9a5a156901c03"
+      "sha256": "e6f0c41e103ef8975101d1a6f59eb20e4b5e6f02d863bd7112e6d6770be5bd46"
     },
     {
       "path": "scripts/uie_closure_guard.py",
@@ -101,6 +101,6 @@
       "sha256": "56bcaa42859e0fb0d1017ddcd0937b096513e95aa1c154b089e8c647c480862d"
     }
   ],
-  "generated_utc": "2026-07-02T16:12:49Z",
+  "generated_utc": "2026-07-02T16:29:37Z",
   "schema_version": "2026-03-05"
 }
