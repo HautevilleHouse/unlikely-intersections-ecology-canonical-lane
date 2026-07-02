@@ -57,7 +57,7 @@ Let `A` denote the admissible class used throughout Sections 2-8 and Appendices 
 
 ### 1.3 Explicit remainder discipline
 
-Write `Y = Y_mc^UIE \sqcup R_UIE`, where `Y_mc^UIE` is the declared admissible visible sector induced by `A_unlikely` and `R_UIE` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^UIE`; it does not silently identify admissible closure with unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_UIE`.
+Write `Y = Y_mc^UIE \sqcup R_UIE`, where `Y_mc^UIE` is the declared admissible visible sector induced by `A_unlikely` and `R_UIE` is the explicit complement in the full problem-side class `Y`. The theorem package closes on `Y_mc^UIE`; admissible closure remains distinct from unrestricted closure on `Y`. Any stronger external consequence must therefore be expressed as control, reduction, or iterative refinement of `R_UIE`.
 
 
 ---
