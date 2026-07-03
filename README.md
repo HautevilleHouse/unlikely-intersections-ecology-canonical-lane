@@ -20,7 +20,7 @@ This repository is not a single primitive endpoint case. It coordinates an admis
 4. height, density, and dimensional-balance transport packages,
 5. local-global stitching of the declared atypical-family endpoint package.
 
-The runtime surface certifies closure of the declared super-lane, not just one local example.
+The runtime surface establishes closure of the declared super-lane, not just one local example.
 
 ## Structure
 

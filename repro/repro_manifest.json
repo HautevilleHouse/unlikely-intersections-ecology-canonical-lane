@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "README.md",
-      "sha256": "535ea926542c5c5e767071045538a045a50c56b9f02bff9bc6255c3773f9c1ac"
+      "sha256": "65e69a31cffc0df72a80852cff2b13d697661cd3ddcdeb0a683af01547936103"
     },
     {
       "path": "CITATION.cff",
@@ -14,7 +14,7 @@
     },
     {
       "path": "paper/UNLIKELY_INTERSECTIONS_ECOLOGY_PREPRINT.md",
-      "sha256": "2a47b51eab8c066f3d59273b6739aecb01daff7bd98dc16de2e142af5c54bfee"
+      "sha256": "768977490630006b2dc3ab0ed20ff2e70fbd9223c03a6cb925f9f6a521f07a11"
     },
     {
       "path": "paper/CANONICAL_ROUTING_INDEX.md",
@@ -101,6 +101,6 @@
       "sha256": "56bcaa42859e0fb0d1017ddcd0937b096513e95aa1c154b089e8c647c480862d"
     }
   ],
-  "generated_utc": "2026-07-02T16:58:01Z",
+  "generated_utc": "2026-07-03T01:17:19Z",
   "schema_version": "2026-03-05"
 }
