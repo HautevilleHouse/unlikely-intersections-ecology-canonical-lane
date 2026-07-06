@@ -12,7 +12,7 @@ proving closure of atypical and anomalous intersection families across admissibl
 
 ## Super-Repo Role
 
-This repository is not a single primitive endpoint case. It coordinates an admissible routed lattice whose native families are:
+This repository coordinates an admissible routed lattice whose native families are:
 
 1. special-subvariety and torsion-coset intersection control,
 2. ambient-defect and anomalous-locus compatibility packages,
